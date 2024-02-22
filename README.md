@@ -1,4 +1,4 @@
-Proyecto de Redes realizado con cisco Packet Tracer.
+Proyecto de Redes realizado con Cisco Packet Tracer para la materia Redes y Comunicaciondes del Instituto Urquiza.
 
 Enunciado del caso a resolver:
 Se presenta una necesidad de una empresa Pyme típica de mercado,
